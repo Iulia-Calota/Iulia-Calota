@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calota-iulia&label=Profile%20views&color=0e75b6&style=flat" alt="calota-iulia" /> </p>
 
 - 🌱 I’m currently learning [Automation testing](https://www.udemy.com/course/testare-manuala-si-automata-curs-qa)
-
-- 🤝 I’m looking for help with **QA / QC / Testing**
-
 - 👨‍💻 All of my projects are available at [Manual Testing project](https://github.com/Iulia-Calota/manual-testing-project)
 - 📫 How to reach me ****
 
