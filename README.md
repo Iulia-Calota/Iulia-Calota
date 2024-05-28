@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **QA / QC / Testing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Iulia-Calota](https://github.com/Iulia-Calota)
+- 👨‍💻 All of my projects are available at [Iulia Calota](https://github.com/Iulia-Calota)
 
-- 📫 How to reach me **calota.iulia.antoniana@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
