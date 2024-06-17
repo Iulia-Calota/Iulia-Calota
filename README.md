@@ -18,7 +18,7 @@ I am keen on sharing ideas, experiences and setting new quality standards.
 
 - 🏆 Certified Tester on [Manual and Automated testing ](https://github.com/Iulia-Calota/About-me/blob/main/Manual%20and%20Automation%20Testing%20by%20Radu%20Popescu.png)
 - 🌱 I'm currently working on [Automation testing project](https://github.com/Iulia-Calota/Testing-Automation-New)
-- ✅ I worked on [Manual Testing] (https://github.com/Iulia-Calota/manual-testing-project)
+- ✅ I worked on [Manual Testing](https://github.com/Iulia-Calota/manual-testing-project)
 - 🌍 How can you reach me: 
     <a href="https://linkedin.com/in/calota-iulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calota-iulia" height="25" width="15" /></a>
 </p>
