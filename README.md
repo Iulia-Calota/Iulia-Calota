@@ -3,13 +3,18 @@
 
  **”Your mind is for having ideas, not for holding them”** – David Allen
 
- ### From pharmacy assistant to QA tester, quality is the main goal.
+ #### From pharmacy assistant to QA tester, quality has always been my primary goal.
 
-So here I am, with almost 3 years of experience as a QA manual tester, worked on Roblox project, where I performed both static and dynamic testing, to ensure that quality standards are met and fit the end user.
+✨With 3 years of experience as a QA Manual Tester, I have refined my skills through various software testing projects. 
+ 
+ My responsibilities included conducting both static and dynamic testing to guarantee that all products not only meet but exceed end-user expectations in terms of quality standards.
+ 
+ My diverse background in technical support, seller development on the Marketplace platform, and as a pharmacy assistant has equipped me with a unique set of skills. I understand the importance of empathy, effective communication, discipline, and a business-oriented mindset.
+ 
+ Passionate about sharing ideas, learning from experiences, and establishing new quality standards.
+ 
+💡I am seeking opportunities to collaborate with like-minded professionals and contribute to projects that prioritize excellence.
 
-With a background as a technical support, seller development on the Marketplace platform, and a pharmacy assistant, I know what it means to be emphatic, communicative, disciplined, and business-oriented.
-
-I am keen on sharing ideas, experiences and setting new quality standards.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calota-iulia&label=Profile%20views&color=0e75b6&style=flat" alt="calota-iulia" /> </p>
@@ -26,7 +31,7 @@ I am keen on sharing ideas, experiences and setting new quality standards.
 ----
 
 
-### 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 <img align="left" alt="Jira" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 <img align="left" alt="Apple" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
@@ -38,6 +43,17 @@ I am keen on sharing ideas, experiences and setting new quality standards.
 <img align="left" alt="GIMP" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
 <img align="left" alt="Postman" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />      
 <br />
+
+
+
+## 🎓 Courses
+- 
+
+
+
+
+
+
 
 #
 
