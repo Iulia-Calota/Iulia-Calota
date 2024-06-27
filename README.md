@@ -47,8 +47,12 @@
 
 
 ## 🎓 Courses
-- 
-
+| No | Certifications |       Platform   |            Knowledge
+| -- | ------------------------- | ------------------------ | -------------- |
+| 1  | ISTQB Foundation Level preparation course+1000quiz examples | Udemy |
+| 2  | Manual Testing , Automation testing ( QA) | Udemy |
+| 3  |  Manual Testing , Automation testing and introduction to Selenium | Udemy | 
+| 4  | Software Testing Foundations: Transitioning from Manual to Automation | LinkedIn Learning| 
 
 
 
