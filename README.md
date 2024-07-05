@@ -15,7 +15,7 @@ From pharmacy assistant to QA tester, quality has always been my primary goal. W
   
 Continuous Professional Development:
 
-📈 From August 2023 to June 2024, I dedicated myself to enhancing my QA skills and staying current with industry trends.
+📈 From August 2023 to July 2024, I dedicated myself to enhancing my QA skills and staying current with industry trends.
 - Engaged in a thorough review of my QA skills and identified areas for improvement.
 - Actively participated in an IT community on Discord, joining live video sessions for continuous learning and improvements.
 - Achieved several certifications to enhance my expertise:
