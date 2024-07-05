@@ -1,20 +1,47 @@
-<h1 align="center">Hi 👋, I'm Calota Iulia</h1>
+<h1 align="center">Hi 👋, I'm Calota Iulia</h1> 
 <h3 align="center">Quality Assurance from Europe (Romania/Bucharest)</h3>
 
- **”Your mind is for having ideas, not for holding them”** – David Allen
+I  am a dedicated QA Tester with a passion for ensuring quality and excellence.
 
- #### From pharmacy assistant to QA tester, quality has always been my primary goal.
+Professional Journey:
+💡 “Your mind is for having ideas, not for holding them.” – David Allen
 
-✨With 3 years of experience as a QA Manual Tester, I have refined my skills through various software testing projects. 
- 
- My responsibilities included conducting both static and dynamic testing to guarantee that all products not only meet but exceed end-user expectations in terms of quality standards.
- 
- My diverse background in technical support, seller development on the Marketplace platform, and as a pharmacy assistant has equipped me with a unique set of skills. I understand the importance of empathy, effective communication, discipline, and a business-oriented mindset.
- 
- Passionate about sharing ideas, learning from experiences, and establishing new quality standards.
- 
-💡I am seeking opportunities to collaborate with like-minded professionals and contribute to projects that prioritize excellence.
+From pharmacy assistant to QA tester, quality has always been my primary goal. With 3 years of experience as a QA Manual Tester, I have refined my skills through various software testing projects.
 
+🛠 QA Tester at Roblox (June 2021 - July 2023):
+- Conducted both static and dynamic testing to ensure all products met and exceeded end-user expectations in terms of quality standards.
+- Collaborated with cross-functional teams to identify, document, and resolve defects.
+- Developed and executed comprehensive test plans and cases, contributing to the overall product quality.
+  
+Continuous Professional Development:
+
+📈 From August 2023 to June 2024, I dedicated myself to enhancing my QA skills and staying current with industry trends.
+- Engaged in a thorough review of my QA skills and identified areas for improvement.
+- Actively participated in an IT community on Discord, joining live video sessions for continuous learning and improvements.
+- Achieved several certifications to enhance my expertise:
+- LinkedIn Learning: Software Testing Foundations: Test Techniques, Transitioning from Manual to Automation.
+- Udemy: Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph.
+- Currently preparing for the ISTQB Foundation Level certification, focusing on thorough preparation and practice with 1000 quiz examples.
+  
+Certifications:
+
+📜 LinkedIn Learning:
+- Software Testing Foundations: Test Techniques
+- Transitioning from Manual to Automation
+
+📜 Udemy:
+- Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph
+
+✅Background:
+- My diverse background in technical support, seller development on the Marketplace platform, and as a pharmacy assistant has equipped me with a unique set of skills. I understand the importance of empathy, effective communication, discipline, and a business-oriented mindset.
+  
+💖Passion and Goals:
+
+- Passionate about sharing ideas, learning from experiences, and establishing new quality standards. I am seeking opportunities to collaborate with like-minded professionals and contribute to projects that prioritize excellence.
+
+🌍 Looking to New Opportunities: 
+
+- I am actively seeking QA opportunities, I am enthusiastic about bringing my expertise to a new market and contributing to the success of innovative companies.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calota-iulia&label=Profile%20views&color=0e75b6&style=flat" alt="calota-iulia" /> </p>
