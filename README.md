@@ -80,7 +80,7 @@ Certifications:
 ## 🎓 Courses
 | No | Certifications |       Platform   |            Date
 | -- | ------------------------- | ------------------------ | -------------- |
-| 1  | ISTQB Foundation Level preparation course+1000quiz examples |[Udemy](https://www.udemy.com/course/istqb-foundation-level-ctfl-certification/) | 10-06-2024 - 07-2024
+| 1  | ISTQB Foundation Level preparation course+1000quiz examples |[Udemy](https://www.udemy.com/course/istqb-foundation-level-ctfl-certification/) | 10-07-2024 - 08-2024
 | 2  | Manual Testing , Automation testing ( QA) | [Udemy](https://www.udemy.com/course/testare-manuala-si-automata-curs-qa)| 01-06-2024
 | 3  |  Manual Testing , Automation testing and introduction to Selenium | [Udemy](https://www.udemy.com/course/manual-software-testing-introducere-in-selenium/) | 01-05-2024
 | 4  | Software Testing Foundations: Transitioning from Manual to Automation |[LinkedIn Learning](https://www.linkedin.com/learning/software-testing-foundations-transitioning-from-manual-to-automation/)| 28-04-2024
