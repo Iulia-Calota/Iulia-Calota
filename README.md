@@ -22,8 +22,7 @@ Continuous Professional Development:
 - LinkedIn Learning: Software Testing Foundations: Test Techniques, Transitioning from Manual to Automation.
 - Udemy: Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph.
 
-✨![TeeTessGIF](https://github.com/Iulia-Calota/Iulia-Calota/assets/170345072/bb038aeb-cc2e-42a9-8242-939996e24a69)
-- Currently preparing for the ISTQB Foundation Level certification, focusing on thorough preparation and practice with 1000 quiz examples.
+✨- Learning new knowledge from the ISTQB Foundation Level certification, focusing on thorough preparation and practice with 1000 quiz examples.
   
 Certifications:
 
