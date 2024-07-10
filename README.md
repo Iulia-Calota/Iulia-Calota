@@ -39,7 +39,7 @@ Certifications:
   
 💖Passion and Goals:
 
-- Passionate about sharing ideas, learning from experiences, and establishing new quality standards. I am seeking opportunities to collaborate with like-minded professionals and contribute to projects that prioritize excellence.
+- Passionate about sharing ideas, learning from experiences, and establishing new quality standards.
 
 🌍 Looking to New Opportunities: 
 
@@ -50,7 +50,7 @@ Certifications:
 
 ------------
 
-- 🏆 Certified Tester on [Manual and Automated testing ](https://github.com/Iulia-Calota/About-me/blob/main/Manual%20and%20Automation%20Testing%20by%20Radu%20Popescu.png)
+- 🏆 Certification Tester on [Manual and Automated testing ](https://github.com/Iulia-Calota/About-me/blob/main/Manual%20and%20Automation%20Testing%20by%20Radu%20Popescu.png)
 - 🌱 I'm currently working on [API Testing](https://github.com/Iulia-Calota/Api-testing--Automation-testing)
 - ✅ I worked on [Manual Testing](https://github.com/Iulia-Calota/manual-testing-project)
 - 🌍 How can you reach me: 
