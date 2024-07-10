@@ -22,7 +22,8 @@ Continuous Professional Development:
 - LinkedIn Learning: Software Testing Foundations: Test Techniques, Transitioning from Manual to Automation.
 - Udemy: Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph.
 
-✨- Learning new knowledge from the ISTQB Foundation Level certification, focusing on thorough preparation and practice with 1000 quiz examples.
+✨ July 2024
+- Learning new knowledge from the ISTQB Foundation Level certification, focusing on thorough preparation and practice with 1000 quiz examples.
   
 Certifications:
 
