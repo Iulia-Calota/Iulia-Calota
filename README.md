@@ -23,8 +23,10 @@ Continuous Professional Development:
 - Udemy: Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph.
 
 🎯August 2023 - July 2024: Volunteer QA Tester
- - Volunteered freelance QA testing services for a small business specializing in leather pet accessories.
--  Helping a small business specializing in leather pet accessories, executing test cases for a variety of product families (collars, leashes, harnesses) across different sizes (XS to XL) and various dog breeds, focusing on dimensions (width, length, weight).
+- Volunteered freelance QA testing services for a small business specializing in leather pet accessories on Googhe Chrome, Firefox, Edge.
+-  Helping a small business specializing in leather pet accessories, executing test cases for a variety of product families (collars, leashes, harnesses) across different sizes (XS to XL) 
+   and various dog breeds, focusing on dimensions (width, length, weight).
+-  Worked within Agile Methodology, participating in daily meetings and generating reports to track KPIs, popular products, and user preferences
 
 ✨ July 2024
 - Learning new knowledge from the ISTQB Foundation Level certification, focusing on thorough preparation and practice with 1000 quiz examples.
