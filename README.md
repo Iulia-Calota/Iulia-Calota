@@ -22,7 +22,7 @@ Continuous Professional Development:
 - LinkedIn Learning: Software Testing Foundations: Test Techniques, Transitioning from Manual to Automation.
 - Udemy: Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph.
 
-🎯August 2023 - July 2024: Volunteer QA Tester
+🎯August 2023 - July 2024: Freelance QA Tester (Volunteer)
 - Volunteered freelance QA testing services for a small business specializing in leather pet accessories on Googhe Chrome, Firefox, Edge.
 -  Helping a small business specializing in leather pet accessories, executing test cases for a variety of product families (collars, leashes, harnesses) across different sizes (XS to XL) 
    and various dog breeds, focusing on dimensions (width, length, weight).
