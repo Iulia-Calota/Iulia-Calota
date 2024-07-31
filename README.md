@@ -1,56 +1,43 @@
 <h1 align="center">Hi 👋, I'm Calota Iulia</h1> 
 <h3 align="center">Quality Assurance from Europe (Romania/Bucharest)</h3>
 
-I  am a dedicated QA Tester with a passion for ensuring quality and excellence.
+🌟 About Me
+QA Tester for 3 years, dedicated to ensuring the highest standards of quality. My journey from a pharmacy assistant to a seasoned QA professional has equipped me with a unique perspective on precision, user experience, and business needs.
 
-Professional Journey:
-💡 “Your mind is for having ideas, not for holding them.” – David Allen
+🔍 Professional Experience
 
-From pharmacy assistant to QA tester, quality has always been my primary goal. With 3 years of experience as a QA Manual Tester, I have refined my skills through various software testing projects.
+Freelance QA Tester
+August 2023 - July 2024
 
-🛠 QA Tester at Roblox (June 2021 - July 2023):
-- Conducted both static and dynamic testing to ensure all products met and exceeded end-user expectations in terms of quality standards.
-- Collaborated with cross-functional teams to identify, document, and resolve defects.
-- Developed and executed comprehensive test plans and cases, contributing to the overall product quality.
-  
-Continuous Professional Development:
+- As a Freelance QA Tester, I am dedicated to ensuring the quality and functionality of e-commerce platforms for diverse products, including leather pet accessories, eyeglass cases, handbags, belts, and wallets. 
+- My responsibilities include developing and executing test plans, identifying and resolving defects, and providing detailed reports to maintain high software quality standards.
 
-📈 From August 2023 to June 2024, I dedicated myself to enhancing my QA skills and staying current with industry trends.
-- Engaged in a thorough review of my QA skills and identified areas for improvement.
-- Actively participated in an IT community on Discord, joining live video sessions for continuous learning and improvements.
-- Achieved several certifications to enhance my expertise:
-- LinkedIn Learning: Software Testing Foundations: Test Techniques, Transitioning from Manual to Automation.
-- Udemy: Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph.
+QA Tester at Roblox
+June 2021 - July 2023
 
-🎯August 2023 - July 2024: Freelance QA Tester (Volunteer)
-- Volunteered freelance QA testing services for a small business specializing in leather pet accessories on Googhe Chrome, Firefox, Edge.
--  Helping a small business specializing in leather pet accessories, executing test cases for a variety of product families (collars, leashes, harnesses) across different sizes (XS to XL) 
-   and various dog breeds, focusing on dimensions (width, length, weight).
--  Worked within Agile Methodology, participating in daily meetings and generating reports to track KPIs, popular products, and user preferences
+- Worked on subprojects for Roblox, focusing on app features such as social interactions, avatars, and games, to ensure seamless functionality and user satisfaction.
+- I ensured products not only met but exceeded user expectations through rigorous static and dynamic testing. 
+- Agile Collaboration: Worked closely with cross-functional teams in an Agile environment to ensure seamless integration and functionality.
 
-✨ July 2024
-- Learning new knowledge from the ISTQB Foundation Level certification, focusing on thorough preparation and practice with 1000 quiz examples.
-  
-Certifications:
+📚 Continuous Learning
+- LinkedIn Learning: Software Testing Foundations: Test Techniques, Transitioning from Manual to Automation
+- Udemy: Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph
+- ISTQB Foundation Level Certification: Focused on rigorous preparation and practical knowledge
+- Learning Automation with Python 🪴: Began July 31, 2024, expanding my skill set to include Python for automation tasks
 
-📜 LinkedIn Learning:
-- Software Testing Foundations: Test Techniques
-- Transitioning from Manual to Automation
+💡 My Philosophy
+"Your mind is for having ideas, not for holding them." – David Allen
 
-📜 Udemy:
-- Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph
+- My energy, discipline, and passion for innovation drive me to continuously optimize processes and deliver exceptional quality. My diverse background, including roles in technical support, e-commerce seller development, and pharmacy, has instilled in me a keen sense of empathy and effective communication.
 
-✅Background:
-- My diverse background in technical support, seller development on the Marketplace platform, and as a pharmacy assistant has equipped me with a unique set of skills. I understand the importance of empathy, effective communication, discipline, and a business-oriented mindset.
-  
-💖Passion and Goals:
+🎨 Personal Interests
+- When I'm not immersed in quality assurance, I enjoy expressing my creativity through crocheting 🪡, staying active with running 🏃, and crafting poetry ✍️. These hobbies help me balance my professional life with creative and physical activities, contributing to my overall well-being and creativity.
 
-- Passionate about sharing ideas, learning from experiences, and establishing new quality standards.
+🚀 Goals and Aspirations
+- I’m eager to bring my expertise to new and exciting opportunities, where I can contribute to innovative projects and help set new standards of quality. I’m passionate about learning, sharing knowledge, and striving for excellence in everything I do.
 
-🌍 Looking to New Opportunities: 
-
-- I am actively seeking QA opportunities, I am enthusiastic about bringing my expertise to a new market and contributing to the success of innovative companies.
-
+🌍 Let’s Connect
+- If you’re looking for a dedicated QA professional who combines technical expertise with a genuine passion for quality and user experience, let’s connect! I’m excited about new opportunities and eager to contribute to your success.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calota-iulia&label=Profile%20views&color=0e75b6&style=flat" alt="calota-iulia" /> </p>
 
