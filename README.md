@@ -9,7 +9,7 @@ QA Tester for 3 years, dedicated to ensuring the highest standards of quality. M
 Freelance QA Tester
 August 2023 - July 2024
 
-- As a Freelance QA Tester, I am dedicated to ensuring the quality and functionality of e-commerce platforms for diverse products, including leather pet accessories, eyeglass cases, handbags, belts, and wallets. 
+- As a Freelance QA Tester, I am dedicated to ensuring the quality and functionality staging website across multiple browsers (Chrome, Edge, Firefox), ensuring optimal performance and user experience by validating responsiveness before launch.
 - My responsibilities include developing and executing test plans, identifying and resolving defects, and providing detailed reports to maintain high software quality standards.
 
 QA Tester at Roblox
