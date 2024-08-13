@@ -9,21 +9,22 @@ QA Tester for 3 years, dedicated to ensuring the highest standards of quality. M
 Freelance QA Tester
 August 2023 - July 2024
 
-- As a Freelance QA Tester, I am dedicated to ensuring the quality and functionality staging website across multiple browsers (Chrome, Edge, Firefox), ensuring optimal performance and user experience by validating responsiveness before launch.
-- My responsibilities include developing and executing test plans, identifying and resolving defects, and providing detailed reports to maintain high software quality standards.
+- As a Freelance QA Tester, the focus is on ensuring the quality and functionality of staging websites across multiple browsers (Chrome, Edge, Firefox), ensuring optimal performance and user experience by validating responsiveness before launch. 
+- Responsibilities include developing and executing test plans, identifying and resolving defects, and providing detailed reports to maintain high software quality standards.
 
 QA Tester at Roblox
 June 2021 - July 2023
 
-- Worked on subprojects for Roblox, focusing on app features such as social interactions, avatars, and games, to ensure seamless functionality and user satisfaction.
-- I ensured products not only met but exceeded user expectations through rigorous static and dynamic testing. 
-- Agile Collaboration: Worked closely with cross-functional teams in an Agile environment to ensure seamless integration and functionality.
+- Worked on subprojects for Roblox, focusing on app features such as social interactions, avatars, and games, to ensure seamless functionality and user satisfaction. 
+- Ensured products not only met but exceeded user expectations through rigorous static and dynamic testing. 
+- Agile Collaboration involved working closely with cross-functional teams in an Agile environment to ensure seamless integration and functionality.
 
 📚 Continuous Learning
 - LinkedIn Learning: Software Testing Foundations: Test Techniques, Transitioning from Manual to Automation
 - Udemy: Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph
 - ISTQB Foundation Level Certification: Focused on rigorous preparation and practical knowledge
-- Learning Automation with Python 🪴: Began July 31, 2024, expanding my skill set to include Python for automation tasks
+- Learning Automation with Java Script 🪴: Began August 2024, expanding my skill set to include automation project API.
+
 
 💡 My Philosophy
 "Your mind is for having ideas, not for holding them." – David Allen
