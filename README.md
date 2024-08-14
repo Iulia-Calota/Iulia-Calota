@@ -23,8 +23,8 @@ June 2021 - July 2023
 - LinkedIn Learning: Software Testing Foundations: Test Techniques, Transitioning from Manual to Automation
 - Udemy: Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph
 - ISTQB Foundation Level Certification: Focused on rigorous preparation and practical knowledge
-- Learning Automation with Java Script 🪴: Began August 2024, expanding my skill set to include automation project API.
 
+- August 2024, expanding my skill set to include automation project API with JavaScript.
 
 💡 My Philosophy
 "Your mind is for having ideas, not for holding them." – David Allen
