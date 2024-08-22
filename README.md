@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Calota Iulia</h1> 
+<h1 align="center">Hi 👋, I'm Calotă Iulia</h1> 
 <h3 align="center">Quality Assurance from Europe (Romania/Bucharest)</h3>
 
 🌟 About Me
@@ -7,7 +7,7 @@ QA Tester for 3 years, dedicated to ensuring the highest standards of quality. M
 🔍 Professional Experience
 
 Freelance QA Tester
-August 2023 - July 2024
+August 2023 - August 2024
 
 - As a Freelance QA Tester, the focus is on ensuring the quality and functionality of staging websites across multiple browsers (Chrome, Edge, Firefox), ensuring optimal performance and user experience by validating responsiveness before launch. 
 - Responsibilities include developing and executing test plans, identifying and resolving defects, and providing detailed reports to maintain high software quality standards.
@@ -24,7 +24,7 @@ June 2021 - July 2023
 - Udemy: Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph
 - ISTQB Foundation Level Certification: Focused on rigorous preparation and practical knowledge
 
-- August 2024, expanding my skill set to include automation project API with JavaScript.
+- August 2024, expanding my skill set to include [automation project API with JavaScript](https://www.udemy.com/course/postman-the-complete-guid)
 
 💡 My Philosophy
 "Your mind is for having ideas, not for holding them." – David Allen
