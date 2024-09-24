@@ -7,7 +7,7 @@ QA Tester for 3 years, dedicated to ensuring the highest standards of quality. M
 🔍 Professional Experience
 
 Freelance QA Tester
-August 2023 - August 2024
+August 2023 - Present
 
 - As a Freelance QA Tester, the focus is on ensuring the quality and functionality of staging websites across multiple browsers (Chrome, Edge, Firefox), ensuring optimal performance and user experience by validating responsiveness before launch. 
 - Responsibilities include developing and executing test plans, identifying and resolving defects, and providing detailed reports to maintain high software quality standards.
