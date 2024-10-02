@@ -2,7 +2,7 @@
 <h3 align="center">Quality Assurance from Europe (Romania/Bucharest)</h3>
 
 🌟 About Me
-QA Tester for 3 years, dedicated to ensuring the highest standards of quality. My journey from a pharmacy assistant to a seasoned QA professional has equipped me with a unique perspective on precision, user experience, and business needs.
+QA Tester with 5 years of IT experience (3  in QA and 2 years in tech support), dedicated to ensuring the highest standards of quality. My journey from a pharmacy assistant to a seasoned QA professional has equipped me with a unique perspective on precision, user experience, and business needs.
 
 🔍 Professional Experience
 
