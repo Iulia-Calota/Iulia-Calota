@@ -70,11 +70,11 @@ June 2021 - July 2023
 | No | Certifications |       Platform   |            Date
 | -- | ------------------------- | ------------------------ | -------------- |
 | 1  |Postman API testing for manual and automated tests. Automate with Newman, Jenkins or any other CI tool. |[Udemy](https://www.udemy.com/course/postman-the-complete-guide) | 09-2024
-| 2  | ISTQB Foundation Level preparation course+1000quiz examples |[Udemy](https://www.udemy.com/course/istqb-foundation-level-ctfl-certification/) | 10-07-2024 - 08-2024
-| 3  | Manual Testing , Automation testing ( QA) | [Udemy](https://www.udemy.com/course/testare-manuala-si-automata-curs-qa)| 01-06-2024
-| 4  |  Manual Testing , Automation testing and introduction to Selenium | [Udemy](https://www.udemy.com/course/manual-software-testing-introducere-in-selenium/) | 01-05-2024
-| 5  | Software Testing Foundations: Transitioning from Manual to Automation |[LinkedIn Learning](https://www.linkedin.com/learning/software-testing-foundations-transitioning-from-manual-to-automation/)| 28-04-2024
-| 6  | Software Testing Foundations: Test Techniques |[LinkedIn Learning](https://www.linkedin.com/learning/software-testing-foundations-test-techniques/)|24-02-2024
+| 2  | ISTQB Foundation Level preparation course+1000quiz examples |[Udemy](https://www.udemy.com/course/istqb-foundation-level-ctfl-certification/) | 08-2024
+| 3  | Manual Testing , Automation testing ( QA) | [Udemy](https://www.udemy.com/course/testare-manuala-si-automata-curs-qa)| 06-2024
+| 4  |  Manual Testing , Automation testing and introduction to Selenium | [Udemy](https://www.udemy.com/course/manual-software-testing-introducere-in-selenium/) | 05-2024
+| 5  | Software Testing Foundations: Transitioning from Manual to Automation |[LinkedIn Learning](https://www.linkedin.com/learning/software-testing-foundations-transitioning-from-manual-to-automation/)| 04-2024
+| 6  | Software Testing Foundations: Test Techniques |[LinkedIn Learning](https://www.linkedin.com/learning/software-testing-foundations-test-techniques/)| 02-2024
 
 
 #
