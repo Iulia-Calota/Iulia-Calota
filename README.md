@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Calotă Iulia</h1> 
 <h3 align="center">Quality Assurance from Europe (Romania/Bucharest)</h3>
 
-🌟 About Me
-QA Tester with 5 years of IT experience ( 3ᐩ years in QA and 2 years in tech support), dedicated to ensuring the highest standards of quality. My journey from a pharmacy assistant ( 11 years) to a seasoned QA professional has equipped me with a unique perspective on precision, user experience, and business needs.
+🌟 Professional Summary:
+
+QA Tester with 5ᐩ years of IT experience (3ᐩ years in QA and 2 years in Tech support), dedicated to ensuring the highest standards of quality. My journey from a pharmacy assistant ( 11 years) to a seasoned QA professional has equipped me with a unique perspective on precision, user experience, and business needs.
 
 🔍 Professional Experience
 
