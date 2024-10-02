@@ -2,15 +2,14 @@
 <h3 align="center">Quality Assurance from Europe (Romania/Bucharest)</h3>
 
 🌟 About Me
-QA Tester with 5 years of IT experience (3  in QA and 2 years in tech support), dedicated to ensuring the highest standards of quality. My journey from a pharmacy assistant to a seasoned QA professional has equipped me with a unique perspective on precision, user experience, and business needs.
+QA Tester with 5 years of IT experience ( 3ᐩ years in QA and 2 years in tech support), dedicated to ensuring the highest standards of quality. My journey from a pharmacy assistant ( 11 years) to a seasoned QA professional has equipped me with a unique perspective on precision, user experience, and business needs.
 
 🔍 Professional Experience
 
 Freelance QA Tester
 August 2023 - Present
-
-- As a Freelance QA Tester, the focus is on ensuring the quality and functionality of staging websites across multiple browsers (Chrome, Edge, Firefox), ensuring optimal performance and user experience by validating responsiveness before launch. 
-- Responsibilities include developing and executing test plans, identifying and resolving defects, and providing detailed reports to maintain high software quality standards.
+- Currently collaborating with a small leather business to develop their first website. We engage in daily/weekly meetings with the team to identify user stories, translating them into detailed test cases and scenarios.
+- In this CI/CD environment, we help identify bugs early, ensuring smooth deployments while saving time and money for the client.
 
 QA Tester at Roblox
 June 2021 - July 2023
@@ -20,11 +19,7 @@ June 2021 - July 2023
 - Agile Collaboration involved working closely with cross-functional teams in an Agile environment to ensure seamless integration and functionality.
 
 📚 Continuous Learning
-- LinkedIn Learning: Software Testing Foundations: Test Techniques, Transitioning from Manual to Automation
-- Udemy: Manual and Automation Testing with Agile, Selenium, SQL, JIRA, Postman, Graph
-- ISTQB Foundation Level Certification: Focused on rigorous preparation and practical knowledge
-
-- August 2024, expanding my skill set to include [automation project API with JavaScript](https://www.udemy.com/course/postman-the-complete-guid)
+- September 2024: Expanding my skill set to include automation projects using JavaScript, Newman, Docker, API in Postman, and CI/CD pipeline.
 
 💡 My Philosophy
 "Your mind is for having ideas, not for holding them." – David Allen
@@ -44,9 +39,8 @@ June 2021 - July 2023
 
 ------------
 
-- 🏆 Certification Tester on [Manual and Automated testing ](https://github.com/Iulia-Calota/About-me/blob/main/Manual%20and%20Automation%20Testing%20by%20Radu%20Popescu.png)
-- 🌱 I'm currently working on [API Testing Automation](https://github.com/Iulia-Calota/Api-testing--Automation-testing)
-- ✅ I worked on [Manual Testing](https://github.com/Iulia-Calota/manual-testing-project)
+- 🌱 I'm currently working on [API Testing Automation with JavaScript](https://github.com/Iulia-Calota/API-Automation-Testing-with-JavaScript-in-Postman)
+- ✅ Check out my [Popular repositories](https://github.com/Iulia-Calota?tab=repositories)
 - 🌍 How can you reach me: 
     <a href="https://linkedin.com/in/calota-iulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calota-iulia" height="25" width="15" /></a>
 </p>
@@ -74,7 +68,7 @@ June 2021 - July 2023
 ## 🎓 Courses
 | No | Certifications |       Platform   |            Date
 | -- | ------------------------- | ------------------------ | -------------- |
-| 1  |Postman API testing for manual and automated tests. Automate with Newman, Jenkins or any other CI tool. |[Udemy](https://www.udemy.com/course/postman-the-complete-guide) | 15-08-2024 - 09-2024
+| 1  |Postman API testing for manual and automated tests. Automate with Newman, Jenkins or any other CI tool. |[Udemy](https://www.udemy.com/course/postman-the-complete-guide) | 09-2024
 | 2  | ISTQB Foundation Level preparation course+1000quiz examples |[Udemy](https://www.udemy.com/course/istqb-foundation-level-ctfl-certification/) | 10-07-2024 - 08-2024
 | 3  | Manual Testing , Automation testing ( QA) | [Udemy](https://www.udemy.com/course/testare-manuala-si-automata-curs-qa)| 01-06-2024
 | 4  |  Manual Testing , Automation testing and introduction to Selenium | [Udemy](https://www.udemy.com/course/manual-software-testing-introducere-in-selenium/) | 01-05-2024
@@ -84,7 +78,5 @@ June 2021 - July 2023
 
 #
 
- <details>
-  Some other facts about me , I like :🪡(crocheting), 🏃, and ✍️ poetry in my free time.
 
 
