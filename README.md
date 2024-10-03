@@ -7,9 +7,9 @@ QA Tester with 5ᐩ years of IT experience (3ᐩ years in QA and 2 years in Tech
 
 🔍 Professional Experience
 
-Freelance QA Tester
+Freelancer QA Tester
 August 2023 - Present
-- Currently collaborating with a small leather business to develop their first website. We engage in daily/weekly meetings with the team to identify user stories, translating them into detailed test cases and scenarios.
+- I collaborate with a small business on their first website. We engage in daily/weekly meetings with the team to identify user stories, translating them into detailed test cases and scenarios.
 - In this CI/CD environment, we help identify bugs early, ensuring smooth deployments while saving time and money for the client.
 
 QA Tester at Roblox
