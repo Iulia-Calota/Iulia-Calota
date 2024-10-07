@@ -40,7 +40,7 @@ June 2021 - July 2023
 
 ------------
 
-- 🌱 I'm currently working on [API Testing Automation with JavaScript](https://github.com/Iulia-Calota/API-Automation-Testing-with-JavaScript-in-Postman)
+- 🌱 I'm currently working on [Trello-API-Automation-with-CI-CD-Part2]
 - ✅ Check out my [Popular repositories](https://github.com/Iulia-Calota?tab=repositories)
 - 🌍 How can you reach me: 
     <a href="https://linkedin.com/in/calota-iulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calota-iulia" height="25" width="15" /></a>
