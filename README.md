@@ -2,8 +2,7 @@
 <h3 align="center">Quality Assurance from Europe (Romania/Bucharest)</h3>
 
 🌟 Professional Summary:
-
-QA Tester with 5ᐩ years of IT experience (3ᐩ years in QA and 2 years in Tech support), dedicated to ensuring the highest standards of quality. My journey from a pharmacy assistant ( 11 years) to a seasoned QA professional has equipped me with a unique perspective on precision, user experience, and business needs.
+QA Tester with 5+ years of IT experience (3+ years in QA and 2 years in Tech Support), dedicated to maintaining the highest standards of quality. My transition from 11 years as a pharmacy assistant to a QA professional provides a unique perspective on precision, user experience, and aligning with business needs.
 
 🔍 Professional Experience
 
