@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Calotă Iulia</h1> 
+<h1 align="center">Hi 👋, I'm Iulia Calotă</h1> 
 <h3 align="center">Quality Assurance from Europe (Romania/Bucharest)</h3>
 
 🌟 Professional Summary:
