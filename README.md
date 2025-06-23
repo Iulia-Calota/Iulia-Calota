@@ -2,14 +2,19 @@
 <h3 align="center">Quality Assurance from Europe (Romania/Bucharest)</h3>
 
 🌟 Professional Summary:
-QA Tester with 5+ years of IT experience (3+ years in QA and 2 years in Tech Support), dedicated to maintaining the highest standards of quality. My transition from 11 years as a pharmacy assistant to a QA professional provides a unique perspective on precision, user experience, and aligning with business needs.
+QA Tester with 5+ years of IT experience (4+ years in QA and 2 years in Customer Support), dedicated to maintaining the highest standards of quality. 
+My transition from 11 years as a pharmacy assistant to a QA professional provides a unique perspective on precision, user experience, and aligning with business needs.
 
 🔍 Professional Experience
 
-Freelancer QA Tester
+QA Tester for MFL 
 August 2023 - Present
-- I collaborate with a small business on their first website. We engage in daily/weekly meetings with the team to identify user stories, translating them into detailed test cases and scenarios.
+- Collaborated with a small business on their first website. We engage in daily/weekly meetings with the team to identify user stories, translating them into detailed test cases and scenarios.
 - In this CI/CD environment, we help identify bugs early, ensuring smooth deployments while saving time and money for the client.
+
+Customer Operations Analyst for Jd Sports & Shark Ninja UK 
+- Managed technical inquiries for JD Sports Group brands (Millets, Blacks, GoOutdoors) across the UK, Ireland, Netherlands, and Spain.
+- Conducted QA processes, including bug reporting and tracking in Jira, ensuring swift resolution of system issues.
 
 QA Tester at Roblox
 June 2021 - July 2023
